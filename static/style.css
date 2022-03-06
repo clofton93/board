@@ -1,0 +1,17 @@
+h1{
+    color: aquamarine;
+}
+.row{
+    display: flex;
+}
+.square0{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+}
+
+.square1{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
